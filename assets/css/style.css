@@ -5,3 +5,21 @@ h1 {
     font-weight: bolder;
     border: purple;
 }
+
+.link {
+    text-align: center;
+}
+.img-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.flower-image {
+    border: 2px solid red;
+    padding: 1px;
+    margin: 3px;
+    border-radius: 30%;
+    height: auto;
+    width: 30%;
+}
